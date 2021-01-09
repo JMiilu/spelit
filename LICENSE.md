@@ -1,6 +1,6 @@
 ISC License
 
-Copyright (c) 2019, Janne Miilunpalo
+Copyright (c) 2020, Janne Miilunpalo
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above

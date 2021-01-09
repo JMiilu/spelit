@@ -1,0 +1,23 @@
+{
+  "name": "spelit",
+  "version": "1.0.0",
+  "description": "TV-visailusta tuttu nopeuspeli, jossa pitää painella nappuloita sitä mukaa, kun niihin syttyy valo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMiilu/spelit.git"
+  },
+  "author": "Janne Miilunpalo <janne.miilunpalo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMiilu/spelit/issues"
+  },
+  "homepage": "https://github.com/JMiilu/spelit#readme",
+  "devDependencies": {
+    "prettier-standard": "^16.4.1",
+    "semistandard": "^16.0.0"
+  }
+}
